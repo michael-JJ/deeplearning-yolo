@@ -2,4 +2,4 @@ classes = 4
 train = /content/train.txt
 valid = /content/test.txt
 names = /content/obj.names
-backup = backup
+backup = /content/backup
