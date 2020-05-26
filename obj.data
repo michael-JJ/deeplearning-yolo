@@ -1,4 +1,4 @@
-classes = 4
+classes = 3
 train = /content/train.txt
 valid = /content/test.txt
 names = /content/obj.names
